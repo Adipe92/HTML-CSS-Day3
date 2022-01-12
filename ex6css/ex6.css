@@ -1,0 +1,54 @@
+.top {
+    border: 5px solid black; 
+    margin: 50px 200px 0 200px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    float: left;
+    border: 5px solid black;
+    margin: 20px 10px 0px 200px;
+    height: 400px;
+    width: 300px;
+}
+
+aside {
+    float: left;
+    margin: center;
+    border: 5px solid black;
+    margin: 20px 0px 0px 0px;
+    width: 790px;
+    height: 400px;
+}
+
+.article {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+p {
+    margin: 10%;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: 20px 0 0 10px;
+}
+
+.img {
+    float: left;
+}
+
+.news {
+    margin: 10px 0 0 10px;
+    font-size: 20px;
+    text-align: center;
+}
